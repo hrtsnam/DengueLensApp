@@ -1,0 +1,26 @@
+{
+    "id": "B0053EEA",
+    "path": "~/dbd-app/R/distribution.R",
+    "project_path": "R/distribution.R",
+    "type": "r_source",
+    "hash": "3394044116",
+    "contents": "",
+    "dirty": false,
+    "created": 1795614086520.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "15,33",
+        "scrollLine": "6"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1795614347,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1795614347878,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,26 @@
+{
+    "id": "3EA58309",
+    "path": "~/dbd-app/R/forecast.R",
+    "project_path": "R/forecast.R",
+    "type": "r_source",
+    "hash": "3087242133",
+    "contents": "",
+    "dirty": false,
+    "created": 1795614641543.0,
+    "source_on_save": false,
+    "relative_order": 11,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "96,1",
+        "scrollLine": "68"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1795614659,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1795614659061,
+    "read_only": false,
+    "read_only_alternatives": []
+}
