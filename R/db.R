@@ -35,3 +35,7 @@ get_deret <- function(level = c("nasional", "provinsi"), nama = NULL, interpolas
   }
   penuh |> mutate(tahun = year(tanggal), bulan = month(tanggal))
 }
+
+get_deret_wilayah <- function(w) {
+  if (w == "Nasional") get_deret("nasional") else get_deret("provinsi", w)
+}
